@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dz_2_6</string>
+    <string name="sign_up">Вход</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="login">Введите логин</string>
+    <string name="register">или зарегистрируйтесь!</string>
+    <string name="email">email:</string>
+    <string name="password">password:</string>
+    <string name="entry">Войти</string>
+    <string name="_9_41">9:41</string>
+</resources>
